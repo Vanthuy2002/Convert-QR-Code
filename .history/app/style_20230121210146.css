@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: "Poppins", sans-serif;
+    background-color: ;
+}
+
+.container{
+    background-color: aquamarine;
+    padding: 20px;
+}
+
+.qr__text{
+
+}
+.qr__title{
+
+}
+.qr__desc{
+
+}
+.qr__input{
+
+}
